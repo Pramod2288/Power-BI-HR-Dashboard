@@ -28,7 +28,7 @@ This project involves creating an HR Dashboard using Power BI to analyze various
 
 ## Project Files
 
-- **[Power BI HR Dashboard.pbix](./Power%20BI%20HR%20Dashboard.pbix):** The Power BI project file containing all the data, measures, and visualizations.
+- The Power BI project file containing all the data, measures, and visualizations.
 
 ## How to Use
 
